@@ -8,7 +8,7 @@
   ],
   "success_url": "https://telegram.dog/Urluploadercpbot",
   "website": "https://github.com/neera-j",
-  "repository": "https://github.com/neera-j/urluploader",
+  "repository": "https://github.com/Jeeva26959/Url-uploader",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
@@ -33,7 +33,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot Enter Your User id",
-      "value": ""
+      "value": "25707160"
 
     },
     "BANNED_USERS": {
