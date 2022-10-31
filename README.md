@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=Send+any+direct+download+link+;this+bot+will+upload+it+to+Telegram)](https://github.com/CP-BOTS/Url-uploader)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&lines=Send+any+direct+download+link+;this+bot+will+upload+it+to+Telegram)](https://github.com/Jeeva26959/Url-uploader)
 
 ALL CREDITS GOES TO THE BELOVED [DEVELOPER](https://github.com/prgofficial) :)
 
@@ -30,7 +30,7 @@ ALL CREDITS GOES TO THE BELOVED [DEVELOPER](https://github.com/prgofficial) :)
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/neera-j/urluploader)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/Jeeva26959/Url-uploader)
 
 #### Run in your VPS
 ```sh
